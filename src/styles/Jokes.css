@@ -1,0 +1,25 @@
+.jokes{
+    width: 250px;
+    height: 300px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-style: groove;
+    border-radius: 10px;
+}
+
+.title{
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.details{
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 30px;
+    line-height: 25px;
+}
